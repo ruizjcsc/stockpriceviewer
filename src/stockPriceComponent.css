@@ -1,0 +1,12 @@
+.stockPrice{
+    color: rgb(38, 168, 168);
+    background-color: tan;
+    border-radius: 2vw;
+    padding: 3vw;
+    margin: .5vw;
+    border: 0.25vw solid #005266;
+    font-size: 1.75vw;
+    font-weight: bold;
+    text-align: center;
+    float: left
+}
