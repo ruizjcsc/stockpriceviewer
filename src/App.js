@@ -8,10 +8,6 @@ function App() {
       <StockPrice ticker = 'AMZN'></StockPrice>
       <StockPrice ticker = 'META'></StockPrice>
       <StockPrice ticker = 'GOOGL'></StockPrice>
-      <StockPrice ticker = 'NKLA'></StockPrice>
-      <StockPrice ticker = 'WMT'></StockPrice>
-      <StockPrice ticker = 'TSLA'></StockPrice>
-      <StockPrice ticker = 'INTC'></StockPrice>
       <script></script>
     </div>
 

@@ -55,7 +55,7 @@ class stockPriceComponent extends Component{
     render(){
         // initialied the data and the ticker here so that they can stay consistant throughout code
         // and can be called later
-
+        // when initializing the stockData in render make sure the name stays consistant throughout
         const {stockData} = this.state
         const {ticker} = this.props
 
